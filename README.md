@@ -12,7 +12,6 @@ Ahmad: Worked on Pilot.vb
 
 Functionality of TimeBus
 
-
 Ability to watch visits of past tours; Watch Actions: play, pause/resume, restart, rewind/forward, speed up/slow down, and skip to a specific time.
 
 Can create a new visit and tour from scratch. Create a copy of existing tour, or add/remove visits and change order of visits when creating new tour.
