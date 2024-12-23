@@ -3,11 +3,9 @@
 
 Group: Watsi, Japneet (Me), Ahmad 
 
-Watsi
-Majority of visitor.vb
+Watsi: Majority of visitor.vb
 
-Japneet
-All of Recording.vb, and co-developed Pilot.vb with Ahmad.
+Japneet: All of Recording.vb, and co-developed Pilot.vb with Ahmad.
 Visitor.vb: Developed the European Tour ('Curated Tour'). Added controls to change order of visits within Tour itinerary. 
 
 Ahmad
