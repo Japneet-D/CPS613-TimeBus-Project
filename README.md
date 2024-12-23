@@ -1,10 +1,7 @@
 # TIMEBUS
  A TimeBus is a tourist bus that (really) travels through time. This project has a user interface for the driver (pilot) and passengers. This is a group project for CPS613 
 
-Group
-Watsi < br / >
-Japneet (Me) < br / >
-Ahmad < br / >
+Group: Watsi, Japneet (Me), Ahmad 
 
 Watsi
 Majority of visitor.vb
