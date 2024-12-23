@@ -8,8 +8,7 @@ Watsi: Majority of visitor.vb
 Japneet: All of Recording.vb, and co-developed Pilot.vb with Ahmad.
 Visitor.vb: Developed the European Tour ('Curated Tour'). Added controls to change order of visits within Tour itinerary. 
 
-Ahmad
-Worked on Pilot.vb
+Ahmad: Worked on Pilot.vb
 
 Functionality of TimeBus
 Ability to watch visits of past tours; Watch Actions: play, pause/resume, restart, rewind/forward, speed up/slow down, and skip to a specific time.
